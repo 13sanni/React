@@ -1,6 +1,6 @@
 import React from 'react'
 
-c/* onst Profile = (props) => {
+/* onst Profile = (props) => {
   return (
 
     
